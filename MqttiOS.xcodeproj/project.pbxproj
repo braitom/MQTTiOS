@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		A9342B5E1B043F570091D463 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9342B5D1B043F570091D463 /* CoreMotion.framework */; };
-		A9342B601B0440AA0091D463 /* Moscapsule.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9342B5F1B0440AA0091D463 /* Moscapsule.framework */; };
 		A9342B611B04446E0091D463 /* Moscapsule.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9342B5F1B0440AA0091D463 /* Moscapsule.framework */; };
 		A9342B621B04446E0091D463 /* Moscapsule.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = A9342B5F1B0440AA0091D463 /* Moscapsule.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		A9638D5E1B043CC50026FCD7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9638D5D1B043CC50026FCD7 /* AppDelegate.swift */; };
@@ -64,7 +63,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9342B5E1B043F570091D463 /* CoreMotion.framework in Frameworks */,
-				A9342B601B0440AA0091D463 /* Moscapsule.framework in Frameworks */,
 				A9342B611B04446E0091D463 /* Moscapsule.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

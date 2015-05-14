@@ -54,7 +54,6 @@ class ViewController: UIViewController {
                     self.mqttClient.publishString("\(currentTime): \(pressure)", topic: "test/iOS", qos: 0, retain: false)
                 }
         })
-
     }
     
     func createMqttConnection() {
